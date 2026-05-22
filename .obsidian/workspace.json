@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AllottaNaut Master Bible.md",
+                "file": "03 - Locations/Motion Wake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AllottaNaut Master Bible"
+              "title": "Motion Wake"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AllottaNaut Master Bible.md",
+                "file": "03 - Locations/Motion Wake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AllottaNaut Master Bible"
+              "title": "Backlinks for Motion Wake"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AllottaNaut Master Bible.md",
+                "file": "03 - Locations/Motion Wake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AllottaNaut Master Bible"
+              "title": "Outgoing links from Motion Wake"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AllottaNaut Master Bible.md",
+                "file": "03 - Locations/Motion Wake.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AllottaNaut Master Bible"
+              "title": "Outline of Motion Wake"
             }
           }
         ]
@@ -183,22 +183,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "f836952bcb34022b",
+  "active": "0d71705a8fff8b5e",
   "lastOpenFiles": [
-    "_attachments",
+    "01 - Canon Core/Particle Language.md",
     "99 - Templates/Timeline Event Template.md",
     "99 - Templates/System Template.md",
     "99 - Templates/Location Template.md",
     "99 - Templates/Game Template.md",
     "99 - Templates/Character Template.md",
+    "09 - Production Notes/GitHub Workflow.md",
+    "07 - Design Notes/Visual Style.md",
+    "01 - Canon Core/AllottaNaut.md",
+    "00 - Start Here/AllottaNaut Master Index.md",
+    "AllottaNaut Master Bible.md",
+    "_attachments",
     "99 - Templates",
     "10 - Assets and Visual References/Visual Reference Index.md",
     "10 - Assets and Visual References",
-    "09 - Production Notes/GitHub Workflow.md",
     "09 - Production Notes",
     "08 - Inspirations and Research/Inspiration Index.md",
     "08 - Inspirations and Research",
-    "07 - Design Notes/Visual Style.md",
     "07 - Design Notes/Sound and Music.md",
     "07 - Design Notes/Mechanics as Lore.md",
     "07 - Design Notes/Game One Design Pillars.md",
@@ -215,11 +219,7 @@
     "04 - Games/Game 01 - First Light/Game One Overview.md",
     "04 - Games/Strange Universe Arc/Strange Universe Overview.md",
     "04 - Games/Game 02 - Game World Homage/Game Two Overview.md",
-    "04 - Games/Cosmic Horror Arc/Cosmic Horror Overview.md",
     "04 - Games/Strange Universe Arc",
-    "04 - Games/Game 02 - Game World Homage",
-    "04 - Games/Game 01 - First Light",
-    "03 - Locations/Outside Reality.md",
-    "03 - Locations/Motion Wake.md"
+    "04 - Games/Game 02 - Game World Homage"
   ]
 }
