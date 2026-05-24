@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Locations/Motion Wake.md",
+                "file": "02 - Characters/Future Rowen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motion Wake"
+              "title": "Future Rowen"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Locations/Motion Wake.md",
+                "file": "02 - Characters/Future Rowen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Motion Wake"
+              "title": "Backlinks for Future Rowen"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Locations/Motion Wake.md",
+                "file": "02 - Characters/Future Rowen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Motion Wake"
+              "title": "Outgoing links from Future Rowen"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Locations/Motion Wake.md",
+                "file": "02 - Characters/Future Rowen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Motion Wake"
+              "title": "Outline of Future Rowen"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "0d71705a8fff8b5e",
   "lastOpenFiles": [
+    "04 - Games/Game 02 - Game World Homage/Game Two Overview.md",
+    "03 - Locations/Childlike Geometry Zone.md",
+    "03 - Locations/Black Void.md",
+    "03 - Locations/Motion Wake.md",
+    "01 - Canon Core/Stimulus Overload.md",
     "01 - Canon Core/Particle Language.md",
     "99 - Templates/Timeline Event Template.md",
     "99 - Templates/System Template.md",
@@ -213,12 +218,7 @@
     "06 - Manuscript and Dialogue",
     "05 - Timeline/Long-Term Series Timeline.md",
     "05 - Timeline/Game One Timeline.md",
-    "05 - Timeline/Between Games.md",
-    "05 - Timeline/Before Game One.md",
     "05 - Timeline",
-    "04 - Games/Game 01 - First Light/Game One Overview.md",
-    "04 - Games/Strange Universe Arc/Strange Universe Overview.md",
-    "04 - Games/Game 02 - Game World Homage/Game Two Overview.md",
     "04 - Games/Strange Universe Arc",
     "04 - Games/Game 02 - Game World Homage"
   ]
