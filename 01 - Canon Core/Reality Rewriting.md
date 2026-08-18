@@ -35,3 +35,22 @@ This is the bridge between walking-simulator wonder, game-world homage, strange 
 - [[AllottaNaut]]
 - [[Nodes]]
 - [[Mechanics as Lore]]
+
+<!-- BEGIN ALLOTTANAUT MANAGED: aug-2026-series-realizations -->
+## August 2026 - Governing Authority Model
+
+Reality Rewriting is now best understood through a hierarchy of authority rather than
+a fixed list of powers.
+
+- **Inside AllottaNaut:** AllottaNaut has near-total native authority, though early
+  ignorance can make that authority clumsy or dangerous.
+- **At a boundary/opening:** AllottaNaut can strongly influence conditions.
+- **Outside:** the destination universe normally has authority.
+- **Projected regions:** with sufficient understanding, AllottaNaut can carry selected
+  conditions outside itself in a limited bubble or extension.
+
+Protection therefore scales with comprehension rather than following a permanent rule
+such as "can stop reality effects but cannot stop direct damage."
+
+See [[Authority Projection and Preservation]] and [[Multiversal Exploration Doctrine]].
+<!-- END ALLOTTANAUT MANAGED: aug-2026-series-realizations -->

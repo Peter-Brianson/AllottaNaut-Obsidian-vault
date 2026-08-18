@@ -40,3 +40,25 @@ AllottaNaut is both setting and character. It can be wondrous, lonely, frighteni
 - [[Particle Language]]
 - [[Reality Rewriting]]
 - [[Stimulus Overload]]
+
+<!-- BEGIN ALLOTTANAUT MANAGED: aug-2026-series-realizations -->
+## August 2026 - Expanded Core Model
+
+AllottaNaut's interior should be treated as both **body and reality**. Things occurring
+inside it become inherently part of its experienced self because they exist under its
+laws and within its field of awareness.
+
+Its earliest natural condition is closer to **stasis with authority** than to an ordinary
+universe that automatically erodes everything inside it. Decay, fuel consumption, air,
+and similar processes are not assumed merely because Baseline expects them.
+
+Its development remains progressive rather than binary:
+observation -> interaction -> representation -> communication -> deliberate moral choice.
+
+Elias primarily teaches physics, cause and effect, history, classification, and consequence.
+Rowen primarily teaches emotion, morality, play, humor, compassion, and inherent value.
+
+A key long-term rule is now formalized in [[Authority Projection and Preservation]]:
+
+> **The more AllottaNaut understands reality, the more deliberately it can choose reality.**
+<!-- END ALLOTTANAUT MANAGED: aug-2026-series-realizations -->

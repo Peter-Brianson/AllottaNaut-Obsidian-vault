@@ -22,3 +22,27 @@ This arc should show that AllottaNaut can grow powerful without becoming an easy
 ## Rule Concern
 
 Keep power scaling emotional and constrained. AllottaNaut should not become a universal reset button.
+
+<!-- BEGIN ALLOTTANAUT MANAGED: aug-2026-series-realizations -->
+## August 2026 - Eldritch Containment Direction
+
+The stronger version of this arc centers on a vast eldritch organism wreaking havoc
+across a galactic body or civilization-scale region.
+
+The resolution is not automatically destruction.
+
+AllottaNaut eventually discovers it can absorb the entire creature and hold it in
+harmless stasis for study. This creates a third option between allowing destruction
+and killing the organism.
+
+Rowen treats the contained being with strange affection, almost as a pet, because his
+moral position is that life can possess inherent value even when it is frightening,
+dangerous, alien, or impossible to empathize with normally.
+
+The moral claim should be strongest when containment truly protects everyone else:
+
+> **If killing is unnecessary, monstrosity alone is not sufficient justification for killing.**
+
+This arc should teach AllottaNaut preservation and containment without turning mercy
+into recklessness.
+<!-- END ALLOTTANAUT MANAGED: aug-2026-series-realizations -->

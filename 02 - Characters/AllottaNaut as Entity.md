@@ -47,3 +47,25 @@ AllottaNaut wants connection before it understands what connection costs.
 - [[AllottaNaut]]
 - [[Nodes]]
 - [[Reality Rewriting]]
+
+<!-- BEGIN ALLOTTANAUT MANAGED: aug-2026-series-realizations -->
+## August 2026 - Long-Term Character Evolution
+
+AllottaNaut's relationship to the cast becomes generational.
+
+Early:
+- Elias and Rowen are effectively elder brothers/teachers.
+- AllottaNaut is inexperienced, reactive, curious, and often dangerous through ignorance.
+
+Middle:
+- AllottaNaut becomes companion, refuge, caretaker, and moral actor.
+- The growth of [[The Hub]] teaches home, population, culture, and responsibility.
+
+Post-R-HOME:
+- AllottaNaut increasingly serves as an elder-brother figure to new protagonists.
+- It has experienced a little of almost everything but remains capable of deep curiosity.
+- Its role is not omniscient guide; it is an experienced person who knows how much it
+  still does not know.
+
+This reversal is one of the franchise's core long-term emotional payoffs.
+<!-- END ALLOTTANAUT MANAGED: aug-2026-series-realizations -->

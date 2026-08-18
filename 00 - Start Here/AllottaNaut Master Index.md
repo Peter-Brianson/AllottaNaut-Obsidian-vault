@@ -67,3 +67,24 @@ AllottaNaut is a living reality that begins as an apparent void, learns through 
 - [[07 - Design Notes/Visual Style|Visual Style]]
 - [[07 - Design Notes/Sound and Music|Sound and Music]]
 - [[07 - Design Notes/Mechanics as Lore|Mechanics as Lore]]
+
+<!-- BEGIN ALLOTTANAUT MANAGED: aug-2026-series-realizations -->
+## August 2026 - Expanded Series Spine
+
+### New Core / Reference Notes
+- [[01 - Canon Core/R-HOME and Baseline|R-HOME and Baseline]]
+- [[01 - Canon Core/Authority Projection and Preservation|Authority, Projection, and Preservation]]
+- [[01 - Canon Core/Multiversal Exploration Doctrine|Multiversal Exploration Doctrine]]
+- [[00 - Start Here/Series Synopsis - Current Long Form|Series Synopsis - Current Long Form]]
+
+### New Long-Term Locations and Design
+- [[03 - Locations/The Hub|The Hub]]
+- [[07 - Design Notes/Multiverse Story Engine|Multiverse Story Engine]]
+
+### Planned Major Arcs
+- [[04 - Games/Refuge Civilization Arc/Refuge Civilization Overview|Refuge Civilization Arc]]
+- [[04 - Games/Cosmic Horror Arc/Cosmic Horror Overview|Cosmic Horror / Eldritch Containment Arc]]
+- [[04 - Games/Cursed God Arc/Cursed God Overview|Cursed God Arc]]
+- [[04 - Games/R-HOME Resolution Arc/R-HOME Resolution Overview|R-HOME Resolution Arc]]
+- [[04 - Games/Post R-HOME Era/Post R-HOME Era Overview|Post R-HOME Era]]
+<!-- END ALLOTTANAUT MANAGED: aug-2026-series-realizations -->
