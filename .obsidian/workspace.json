@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Cairnworks Industrial Company.md",
+                "file": "Worldbuilding/Organizations/Cairnworks Industrial Company.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,9 +185,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "0d71705a8fff8b5e",
+  "active": "f836952bcb34022b",
   "lastOpenFiles": [
-    "Worldbuilding/CT-88 Longcab.md",
+    "Worldbuilding/Equipment/CT-88 Longcab.md",
+    "Worldbuilding/R-HOME - Civilization Bible.md.bak",
+    "Worldbuilding/Equipment/D-Series Threads.md",
+    "Worldbuilding/Equipment",
+    "Worldbuilding/Organizations/Hearthline Life Systems.md",
+    "Worldbuilding/Organizations/Aster Human Systems.md",
+    "Worldbuilding/Organizations",
+    "inject_hearthline_aster_dseries.py",
+    "Worldbuilding/Organizations/Cairnworks Industrial Company.md",
+    "Worldbuilding/R-HOME - Civilization Bible.md",
+    "AllottaNaut Master Bible.md",
     "03 - Locations/Main Node Center.md",
     "03 - Locations/Common Ground.md",
     "03 - Locations/Childlike Geometry Zone.md",
@@ -201,7 +211,6 @@
     "_patch_backups/cairnworks_ct88_common_ground-20260819-145927/00 - Start Here",
     "_patch_backups/cairnworks_ct88_common_ground-20260819-145927",
     "_patch_backups",
-    "Worldbuilding/Cairnworks Industrial Company.md",
     "03 - Locations/Outside Reality.md",
     "03 - Locations/Motion Wake.md",
     "03 - Locations/Mimicry Field.md",
@@ -212,19 +221,9 @@
     "01 - Canon Core/Ghost Mimics.md",
     "01 - Canon Core/Expulsion.md",
     "00 - Start Here/Canon Status Key.md",
-    "00 - Start Here/AllottaNaut Master Index.md",
-    "99 - Templates/Game Template.md",
-    "99 - Templates/Character Template.md",
-    "02 - Characters/Future Elias.md",
-    "02 - Characters/Frank, the Oath That Remained.md",
-    "04 - Games/Cursed God Arc/Cursed God Overview.md",
     "04 - Games/Cursed God Arc/_patch_backups/Cursed God Overview.20260819-122301.md.bak",
-    "04 - Games/Cursed God Arc/_patch_backups",
-    "Untitled.base",
     "Untitled.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Worldbuilding",
-    "04 - Games/Post R-HOME Era"
+    "Untitled 1.canvas"
   ]
 }

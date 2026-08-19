@@ -44,8 +44,8 @@ AllottaNaut is a living reality that begins as an apparent void, learns through 
 <!-- ALLOTTANAUT-CAIRNWORKS-CT88-COMMON-GROUND:START -->
 ## R-HOME Infrastructure and Heritage
 
-- [[Worldbuilding/Cairnworks Industrial Company|Cairnworks Industrial Company]]
-- [[Worldbuilding/CT-88 Longcab|CT-88 Longcab]]
+- [[Cairnworks Industrial Company|Cairnworks Industrial Company]]
+- [[CT-88 Longcab|CT-88 Longcab]]
 - [[03 - Locations/Common Ground|Common Ground]]
 - [[03 - Locations/The Hub|The Hub]]
 <!-- ALLOTTANAUT-CAIRNWORKS-CT88-COMMON-GROUND:END -->
