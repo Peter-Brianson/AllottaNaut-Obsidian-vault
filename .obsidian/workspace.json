@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Timeline/Long-Term Series Timeline.md",
+                "file": "Worldbuilding/R-HOME - Civilization Bible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Long-Term Series Timeline"
+              "title": "R-HOME - Civilization Bible"
             }
           }
         ]
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,13 +187,23 @@
   },
   "active": "0d71705a8fff8b5e",
   "lastOpenFiles": [
-    "01 - Canon Core/Reality Rewriting.md",
+    "AllottaNaut Master Bible.md",
+    "README.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "04 - Games/R-HOME Resolution Arc/R-HOME Resolution Overview.md",
     "01 - Canon Core/R-HOME and Baseline.md",
+    "01 - Canon Core/Authority Projection and Preservation.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "05 - Timeline/Long-Term Series Timeline.md",
+    "Worldbuilding/R-HOME - Civilization Bible.md",
+    "Worldbuilding",
+    "01 - Canon Core/Reality Rewriting.md",
     "01 - Canon Core/Particle Language.md",
     "00 - Start Here/How To Use This Vault.md",
     "00 - Start Here/Canon Status Key.md",
     "00 - Start Here/AllottaNaut Master Index.md",
-    "05 - Timeline/Long-Term Series Timeline.md",
     "05 - Timeline/Game One Timeline.md",
     "05 - Timeline/Between Games.md",
     "03 - Locations/The Hub.md",
@@ -207,22 +216,15 @@
     "07 - Design Notes/Multiverse Story Engine.md",
     "04 - Games/Post R-HOME Era/Post R-HOME Era Overview.md",
     "04 - Games/Post R-HOME Era",
-    "04 - Games/R-HOME Resolution Arc/R-HOME Resolution Overview.md",
     "04 - Games/R-HOME Resolution Arc",
     "04 - Games/Cursed God Arc",
     "04 - Games/Refuge Civilization Arc/Refuge Civilization Overview.md",
     "04 - Games/Refuge Civilization Arc",
     "01 - Canon Core/Multiversal Exploration Doctrine.md",
-    "01 - Canon Core/Authority Projection and Preservation.md",
     "00 - Start Here/Series Synopsis - Current Long Form.md",
-    "02 - Characters/Future Rowen.md",
-    "README.md",
-    "AllottaNaut Master Bible.md",
     "AllottaNaut/Game One/Plot/Support Notes",
     "AllottaNaut/Game One/Plot/Chapters",
     "AllottaNaut/Game One/Plot",
-    "AllottaNaut/Game One",
-    "AllottaNaut",
-    "create_allotta_naut_game_one_plot_notes.py"
+    "AllottaNaut/Game One"
   ]
 }
