@@ -23,10 +23,6 @@ It should feel **accumulated rather than master-planned**.
 
 ## Origin
 
-<!-- ALLOTTANAUT-CAIRNWORKS-CT88-COMMON-GROUND:START -->
-The first meaningful piece is [[Common Ground]], Elias and Rowen's original [[CT-88 Longcab]]: a surviving physical fragment of [[R-HOME and Baseline|R-HOME]].
-<!-- ALLOTTANAUT-CAIRNWORKS-CT88-COMMON-GROUND:END -->
-
 The first meaningful piece is Elias and Rowen's original ship: a surviving physical
 fragment of [[R-HOME and Baseline|R-HOME]].
 

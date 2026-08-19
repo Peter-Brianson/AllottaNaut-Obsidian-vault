@@ -565,28 +565,6 @@ He is an engineer, not an encyclopedia.
 
 ---
 
-<!-- ALLOTTANAUT-CAIRNWORKS-CT88-COMMON-GROUND:START -->
-## Ordinary Commercial Space Haulage
-
-Rowen's regular work/home vessel is now established as [[Common Ground]], a
-[[Cairnworks Industrial Company|Cairnworks]] [[CT-88 Longcab]].
-
-The important worldbuilding shorthand is **an extended-cab semi-truck for space**.
-The tractor contains crew habitation, primary navigation/drive systems, maintenance
-access, and a heavy rear cargo saddle. Freight is carried in detachable modules rather
-than requiring the tractor itself to become a single-purpose freighter.
-
-This supports R-HOME's established technological texture: near-light travel can be
-astonishing by Baseline standards while remaining ordinary work to the people using it.
-It also keeps Rowen grounded as a commercial transporter rather than quietly turning him
-into the captain of an elite exploration vessel.
-
-[[Common Ground]] is simultaneously the brothers' home, Rowen's work truck, Elias's
-overflow garage/archive, and the surviving physical seed around which [[The Hub]] grows.
-<!-- ALLOTTANAUT-CAIRNWORKS-CT88-COMMON-GROUND:END -->
-
----
-
 ## Rowen
 
 Rowen is a **commercial transporter**.
@@ -1085,7 +1063,7 @@ These areas are intentionally not over-defined yet:
 - whether Councils are primarily geographic, functional, population-based, or
   a deliberate mixture;
 - Elias's exact engineering specialization;
-- Rowen's exact transport certifications; his regular home/work vessel is now established as [[Common Ground]], a [[CT-88 Longcab]];
+- Rowen's transport certifications and typical vessel;
 - precise mechanics and limits of near-light travel;
 - precise mechanics of wireless stellar power;
 - exact Dyson completion metric;

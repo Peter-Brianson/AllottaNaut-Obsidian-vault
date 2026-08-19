@@ -41,15 +41,6 @@ AllottaNaut is a living reality that begins as an apparent void, learns through 
 - [[03 - Locations/Main Node Center|Main Node Center]]
 - [[03 - Locations/Outside Reality|Outside Reality]]
 
-<!-- ALLOTTANAUT-CAIRNWORKS-CT88-COMMON-GROUND:START -->
-## R-HOME Infrastructure and Heritage
-
-- [[Worldbuilding/Cairnworks Industrial Company|Cairnworks Industrial Company]]
-- [[Worldbuilding/CT-88 Longcab|CT-88 Longcab]]
-- [[03 - Locations/Common Ground|Common Ground]]
-- [[03 - Locations/The Hub|The Hub]]
-<!-- ALLOTTANAUT-CAIRNWORKS-CT88-COMMON-GROUND:END -->
-
 ## Games and Arcs
 
 - [[04 - Games/Game 01 - First Light/Game One Overview|Game One - First Light]]
