@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Organizations/Cairnworks Industrial Company.md",
+                "file": "Worldbuilding/Organizations/Hearthline Life Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cairnworks Industrial Company"
+              "title": "Hearthline Life Systems"
             }
           }
         ]
@@ -185,17 +185,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "f836952bcb34022b",
+  "active": "0d71705a8fff8b5e",
   "lastOpenFiles": [
+    "Worldbuilding/Organizations/Aster Human Systems.md",
+    "Worldbuilding/Organizations/Cairnworks Industrial Company.md",
     "Worldbuilding/Equipment/CT-88 Longcab.md",
     "Worldbuilding/R-HOME - Civilization Bible.md.bak",
     "Worldbuilding/Equipment/D-Series Threads.md",
     "Worldbuilding/Equipment",
     "Worldbuilding/Organizations/Hearthline Life Systems.md",
-    "Worldbuilding/Organizations/Aster Human Systems.md",
     "Worldbuilding/Organizations",
     "inject_hearthline_aster_dseries.py",
-    "Worldbuilding/Organizations/Cairnworks Industrial Company.md",
     "Worldbuilding/R-HOME - Civilization Bible.md",
     "AllottaNaut Master Bible.md",
     "03 - Locations/Main Node Center.md",
